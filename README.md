@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi
 
-<!--
-**KuroStack/KuroStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build scalable backend systems and platform-driven applications with a focus on clean architecture and long-term extensibility.
 
-Here are some ideas to get you started:
+## 🔧 Focus Areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Backend systems (Java / Spring Boot)
+* Distributed systems & scalability
+* SaaS and platform architecture
+* System design
+
+## 🚀 Selected Work
+
+* Core banking platform (cooperative institutions)
+* Platform-oriented applications
+* Modular backend systems
+
+## 🧠 Interests
+
+* System design
+* Scalable architectures
+* Product-driven engineering
+
+---
+
+> Build systems that scale.
